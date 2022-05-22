@@ -24,6 +24,5 @@ function fareTripler(x) {
 }
 
 function selectDifferentDrivers(arrayOfDrivers, returnFirstTwoDrivers) {
-    debugger;
     return returnFirstTwoDrivers(arrayOfDrivers);
 }
